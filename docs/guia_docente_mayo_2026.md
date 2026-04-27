@@ -1,6 +1,6 @@
 # Guía docente actualizada · Mayo 2026
 
-## Enfoque metodológico
+## Enfoque metodológico cmabitos
 
 El curso se plantea como una secuencia práctica de análisis de datos con Python. Cada bloque combina una explicación conceptual breve, una práctica guiada en Jupyter y una actividad entregable.
 
