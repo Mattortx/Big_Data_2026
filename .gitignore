@@ -50,6 +50,8 @@ Thumbs.db
 .env
 .envrc
 venv/
+.venv/
+.venv-1/
 
 # Ignore Jupyter Lab/Notebook runtime files
 jupyter_runtime/
